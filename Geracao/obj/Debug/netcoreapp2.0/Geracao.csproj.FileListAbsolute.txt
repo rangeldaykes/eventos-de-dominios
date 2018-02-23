@@ -1,0 +1,10 @@
+/home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Geracao/obj/Debug/netcoreapp2.0/Geracao.csproj.CoreCompileInputs.cache
+/home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Geracao/obj/Debug/netcoreapp2.0/Geracao.AssemblyInfoInputs.cache
+/home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Geracao/obj/Debug/netcoreapp2.0/Geracao.AssemblyInfo.cs
+/home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Geracao/bin/Debug/netcoreapp2.0/Geracao.deps.json
+/home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Geracao/bin/Debug/netcoreapp2.0/Geracao.runtimeconfig.json
+/home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Geracao/bin/Debug/netcoreapp2.0/Geracao.runtimeconfig.dev.json
+/home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Geracao/bin/Debug/netcoreapp2.0/Geracao.dll
+/home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Geracao/bin/Debug/netcoreapp2.0/Geracao.pdb
+/home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Geracao/obj/Debug/netcoreapp2.0/Geracao.dll
+/home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Geracao/obj/Debug/netcoreapp2.0/Geracao.pdb
