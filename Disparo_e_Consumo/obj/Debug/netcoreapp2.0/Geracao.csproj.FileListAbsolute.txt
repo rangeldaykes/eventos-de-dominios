@@ -18,3 +18,13 @@
 /home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Disparo_e_Consumo/obj/Debug/netcoreapp2.0/Geracao.AssemblyInfo.cs
 /home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Disparo_e_Consumo/obj/Debug/netcoreapp2.0/Geracao.dll
 /home/rangelsantos/ProjetosDotNet/eventos_de_dominios/Disparo_e_Consumo/obj/Debug/netcoreapp2.0/Geracao.pdb
+C:\temp\eventos-de-dominios\Disparo_e_Consumo\bin\Debug\netcoreapp2.0\Geracao.deps.json
+C:\temp\eventos-de-dominios\Disparo_e_Consumo\bin\Debug\netcoreapp2.0\Geracao.runtimeconfig.json
+C:\temp\eventos-de-dominios\Disparo_e_Consumo\bin\Debug\netcoreapp2.0\Geracao.runtimeconfig.dev.json
+C:\temp\eventos-de-dominios\Disparo_e_Consumo\bin\Debug\netcoreapp2.0\Geracao.dll
+C:\temp\eventos-de-dominios\Disparo_e_Consumo\bin\Debug\netcoreapp2.0\Geracao.pdb
+C:\temp\eventos-de-dominios\Disparo_e_Consumo\obj\Debug\netcoreapp2.0\Geracao.csproj.CoreCompileInputs.cache
+C:\temp\eventos-de-dominios\Disparo_e_Consumo\obj\Debug\netcoreapp2.0\Geracao.AssemblyInfoInputs.cache
+C:\temp\eventos-de-dominios\Disparo_e_Consumo\obj\Debug\netcoreapp2.0\Geracao.AssemblyInfo.cs
+C:\temp\eventos-de-dominios\Disparo_e_Consumo\obj\Debug\netcoreapp2.0\Geracao.dll
+C:\temp\eventos-de-dominios\Disparo_e_Consumo\obj\Debug\netcoreapp2.0\Geracao.pdb

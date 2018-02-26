@@ -1,0 +1,10 @@
+C:\temp\eventos-de-dominios\opcao_disparo\bin\Debug\netcoreapp2.0\opcao_disparo.deps.json
+C:\temp\eventos-de-dominios\opcao_disparo\bin\Debug\netcoreapp2.0\opcao_disparo.runtimeconfig.json
+C:\temp\eventos-de-dominios\opcao_disparo\bin\Debug\netcoreapp2.0\opcao_disparo.runtimeconfig.dev.json
+C:\temp\eventos-de-dominios\opcao_disparo\bin\Debug\netcoreapp2.0\opcao_disparo.dll
+C:\temp\eventos-de-dominios\opcao_disparo\bin\Debug\netcoreapp2.0\opcao_disparo.pdb
+C:\temp\eventos-de-dominios\opcao_disparo\obj\Debug\netcoreapp2.0\opcao_disparo.csproj.CoreCompileInputs.cache
+C:\temp\eventos-de-dominios\opcao_disparo\obj\Debug\netcoreapp2.0\opcao_disparo.AssemblyInfoInputs.cache
+C:\temp\eventos-de-dominios\opcao_disparo\obj\Debug\netcoreapp2.0\opcao_disparo.AssemblyInfo.cs
+C:\temp\eventos-de-dominios\opcao_disparo\obj\Debug\netcoreapp2.0\opcao_disparo.dll
+C:\temp\eventos-de-dominios\opcao_disparo\obj\Debug\netcoreapp2.0\opcao_disparo.pdb

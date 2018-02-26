@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("Geracao")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("opcao_disparo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("Geracao")]
-[assembly: System.Reflection.AssemblyTitleAttribute("Geracao")]
+[assembly: System.Reflection.AssemblyProductAttribute("opcao_disparo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("opcao_disparo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
