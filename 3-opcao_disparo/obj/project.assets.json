@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\temp\\eventos-de-dominios\\opcao_disparo\\opcao_disparo.csproj",
+      "projectUniqueName": "c:\\temp\\eventos-de-dominios\\3-opcao_disparo\\opcao_disparo.csproj",
       "projectName": "opcao_disparo",
-      "projectPath": "C:\\temp\\eventos-de-dominios\\opcao_disparo\\opcao_disparo.csproj",
+      "projectPath": "c:\\temp\\eventos-de-dominios\\3-opcao_disparo\\opcao_disparo.csproj",
       "packagesPath": "C:\\Users\\teste\\.nuget\\packages\\",
-      "outputPath": "C:\\temp\\eventos-de-dominios\\opcao_disparo\\obj\\",
+      "outputPath": "c:\\temp\\eventos-de-dominios\\3-opcao_disparo\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
